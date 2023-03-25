@@ -146,4 +146,4 @@ function lightModeProperties() {
 }
 profilecontainer.classList.toggle("active");
 searchbar.classList.toggle("active");
-getUserData(url + "thepranaygupta");
+getUserData(url + "botAman3");
